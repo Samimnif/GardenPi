@@ -28,3 +28,20 @@ The soil moisture sensor detects the moisture of the soil. If the soil is dry we
 The sensor will be recording the temperature at the site of the GradenPi and will send us the data through rf signal. This sensor will be more helpful in the future to implement other functionalities.
    - **d. Infrared Signal Receiver**:
 This receiver will let us controlm the GardenPi manually with a remote controller.
+
+## Media
+### V1.0.0
+Inside look        |  Outside look 
+:-------------------------:|:-------------------------:
+![img1](/readme_imgs/IMG_9548.JPG)  |  ![img2](/readme_imgs/IMG_0612.HEIC) 
+
+Peek of the environement            |  Deployment of the System
+:-------------------------:|:-------------------------:
+![img3](/readme_imgs/IMG_0694.HEIC)  |  ![img4](/readme_imgs/IMG_0663.HEIC)
+
+### Raspberry pi zero used in the project
+![img2](/readme_imgs/IMG_9692.HEIC)
+### GardenPi captured an intruder
+![gardenpi_capture_bird](/readme_imgs/532854C344714161B27167E3697A7BC8.jpg)
+#### Demo Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5kaHHkN35Xc/0.jpg)](https://youtu.be/5kaHHkN35Xc)
