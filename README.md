@@ -1,6 +1,9 @@
 # GardenPi Project
 This project was originally created in the personal portfolio in my [github](https://github.com/Samimnif/Portfolio-Personal-Projects/tree/main/GardenPi%20Project). The first version of the system was tested in real life and now I am planning on improving it and maybe commercialize it later by creating a custom PCB for simplicity.
-## V1.0.0 (May 2022)
+<details open>
+<summary>V1.0.0 (May 2022)</summary>
+
+## V1.0.0
 ### Problem
 I like growing my vegetables during the summer and it neeeds to be watered regulary because of the hot weather. I usually work everyday and sometimes I come home tired and I feel lazy going to my garden.
 ### Idea
@@ -28,9 +31,12 @@ The soil moisture sensor detects the moisture of the soil. If the soil is dry we
 The sensor will be recording the temperature at the site of the GradenPi and will send us the data through rf signal. This sensor will be more helpful in the future to implement other functionalities.
    - **d. Infrared Signal Receiver**:
 This receiver will let us controlm the GardenPi manually with a remote controller.
+</details>
 
 ## Media
-### V1.0.0
+<details open>
+<summary>V1.0.0</summary>
+
 Inside look        |  Outside look 
 :-------------------------:|:-------------------------:
 ![img1](/readme_imgs/IMG_9548.JPG)  |  ![img2](/readme_imgs/IMG_0612.HEIC) 
@@ -45,3 +51,4 @@ Peek of the environement            |  Deployment of the System
 ![gardenpi_capture_bird](/readme_imgs/532854C344714161B27167E3697A7BC8.jpg)
 #### Demo Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5kaHHkN35Xc/0.jpg)](https://youtu.be/5kaHHkN35Xc)
+</details>
